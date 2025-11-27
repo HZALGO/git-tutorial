@@ -1,2 +1,2 @@
 # git-tutorial
-this repository created for git lesson
+this repository created for git lesson .
